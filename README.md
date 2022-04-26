@@ -2,6 +2,7 @@
 - 👀 I’m interested in Mobile Development in the Tech And Gaming Industry.
 - 💞️ Currently attending University of California, Berkeley.
 - :) Previously worked at Flyte Software Technologies, and Rapid App.
+- ✨ Currently working at Overwolf Ltd.
 - 📫 How to reach me alenniu@berkeley.edu
 
 <!---
