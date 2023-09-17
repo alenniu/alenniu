@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Alen
 - 💞️ Currently attending University of California, Berkeley.
-- :) Previously worked at Flyte Software Technologies, and Rapid App.
-- ✨ Currently working at Overwolf Ltd.
-- 📫 How to reach me alenniu21@gmail.com
+- :) Previously worked at Flyte Software Technologies, Overwolf Ltd, LightFoxGames
+- ✨ Currently working at Karu Learning.
+- 📫 How to reach me alenniu21@gmail.com | alenniu@berkeley.edu | alen@karulearning.com
 
 <!---
 alenniu/alenniu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
